@@ -22,7 +22,7 @@
   },
   "homepage": "https://cloudsploit.com",
   "dependencies": {
-    "async": "2.0.0-rc.3",
+    "async": "3.2.2",
     "aws-sdk": "^2.0.18"
   }
 }
